@@ -1,0 +1,38 @@
+_repo: Szirmay-Ilona--T-rt-neti-reg-ny_32816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaal, József
+    alias: Gaal, Jozsef
+    birthdate: 1811
+    deathdate: 1866
+    gutenberg_agent_id: '36059'
+    url: http://www.gutenberg.org/2009/agents/36059
+    wikipedia: http://hu.wikipedia.org/wiki/Gaal_J%C3%B3zsef
+  editor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+description: ''
+gutenberg_issued: '2010-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32816'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: 'Szirmay Ilona: Történeti regény'
+url: http://www.gutenberg.org/ebooks/32816
